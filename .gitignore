@@ -1,0 +1,12 @@
+node_modules/
+dist/
+release/
+.gradle/
+*.log
+*.jks
+*.keystore
+*.p12
+*.pepk
+签名*
+.DS_Store
+Thumbs.db
